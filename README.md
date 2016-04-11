@@ -16,6 +16,9 @@ Get a Full report of crash data of UnHandled Exception.
 
 ExceptionHandler.init(this, "user@gmail.com", "123456","recipients@gmail.com");
 
+![ScreenShot](https://raw.github.com/Dgotlieb/Crash-Reporter/master/init.png)
+
+
 4. Don't forget to add Manifest.xml permissions, as following:
 
 uses-permission android:name="android.permission.INTERNET"*

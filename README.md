@@ -10,6 +10,7 @@ Get a Full report of crash data of UnHandled Exception.
 **make sure to right click --> add as library.
 
 ![Alt text](/Dgotlieb/Crash-Reporter/addJar.png?raw=true "Add the Jar")
+https://raw.github.com/Dgotlieb/Crash-Reporter/master/addJar.png
 
 3.	Call it from any Context (e.g: Activity/Fragment/Services/Receivers and etc), 
     by sending 4 parameters: Context, Sender, Password and recipients.

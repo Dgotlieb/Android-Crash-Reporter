@@ -8,6 +8,9 @@ Get a Full report of crash data of UnHandled Exception.
 1.	Download the Jar File.
 2.	Add it to your Android project libs (Copy&Paste or dragging).
 **make sure to right click --> add as library.
+
+![Alt text](/Crash-Reporter/addJar.png?raw=true "Add the Jar")
+
 3.	Call it from any Context (e.g: Activity/Fragment/Services/Receivers and etc), 
     by sending 4 parameters: Context, Sender, Password and recipients.
 

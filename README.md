@@ -18,7 +18,6 @@ ExceptionHandler.init(this, "user@gmail.com", "123456","recipients@gmail.com");
 
 ![ScreenShot](https://raw.github.com/Dgotlieb/Crash-Reporter/master/init.png)
 
-
 4. Don't forget to add Manifest.xml permissions, as following:
 
 uses-permission android:name="android.permission.INTERNET"*
@@ -40,7 +39,12 @@ uses-permission android:name="android.permission.ACCESS_WIFI_STATE" ****
 
 # Known issues:
 **Was tested only with gmail.
-**In case It's not working, You will need to to go to :
+
+**In case It's not working, and you get this message: 
+![ScreenShot](https://raw.github.com/Dgotlieb/Crash-Reporter/master/sign in attempt.png)
+
+You will need to go to :
+
 https://myaccount.google.com/security?pli=1#connectedapps and "allow less secure apps"
 
 #License

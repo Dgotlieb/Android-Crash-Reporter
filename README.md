@@ -3,6 +3,7 @@ Easily get your Android App crash reports to your E-mail
 
 # Features:
 Get a Full report of crash data of UnHandled Exception:
+
 1. StackTrace info. 
 
 2. App version, class, method and which line of code the exception occured.
